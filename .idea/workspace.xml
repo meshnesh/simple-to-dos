@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91456613-364a-43cd-9994-1b4c842aa057" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.html" afterPath="$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.js" afterPath="$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.js" />
     </list>
@@ -76,21 +77,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="todosList.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="todosList.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="15">
+              <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="todosList.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="todosList.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="420">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -119,8 +120,8 @@
         <option value="$PROJECT_DIR$/simple-todos/client/main.css" />
         <option value="$PROJECT_DIR$/simple-todos/imports/api/tasks.js" />
         <option value="$PROJECT_DIR$/simple-todos/server/main.js" />
-        <option value="$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.html" />
         <option value="$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.js" />
+        <option value="$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.html" />
       </list>
     </option>
   </component>
@@ -356,12 +357,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1463570189548</updated>
-      <workItem from="1463570192335" duration="2497000" />
+      <workItem from="1463570192335" duration="2845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2497000" />
+    <option name="totallyTimeSpent" value="2845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -436,21 +437,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        <state relative-caret-position="420">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
