@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="91456613-364a-43cd-9994-1b4c842aa057" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-todos/.meteor/packages" afterPath="$PROJECT_DIR$/simple-todos/.meteor/packages" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-todos/.meteor/versions" afterPath="$PROJECT_DIR$/simple-todos/.meteor/versions" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-todos/imports/api/tasks.js" afterPath="$PROJECT_DIR$/simple-todos/imports/api/tasks.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.html" afterPath="$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.js" afterPath="$PROJECT_DIR$/simple-todos/imports/components/todosList/todosList.js" />
     </list>
     <ignored path="simple-to-dos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -387,12 +382,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1463570189548</updated>
-      <workItem from="1463570192335" duration="5289000" />
+      <workItem from="1463570192335" duration="5418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5289000" />
+    <option name="totallyTimeSpent" value="5418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
